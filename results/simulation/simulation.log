@@ -1,0 +1,883 @@
+[GENERATOR] Generator initialized
+[DRIVER] Driver initialized
+[MONITOR] Monitor initialized
+[SCOREBOARD] Scoreboard initialized
+
+============================================================
+        4096 x 64 RAM SYSTEMVERILOG TESTBENCH
+============================================================
+RAM Width       : 64 bits
+Address Width   : 12 bits
+RAM Depth      : 4096 locations
+Transactions   : 40
+============================================================
+
+
+============================================================
+[GENERATOR] Starting stimulus generation
+============================================================
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 2389
+            Data          : 15448417438427341494
+            Stored Addr.  : 1
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 2956
+            Data          : 1063408488803700434
+            Stored Addr.  : 2
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 4082
+            Data          : 15988353986314015403
+            Stored Addr.  : 3
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 14
+            Data          : 14778514005830526002
+            Stored Addr.  : 4
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 311
+            Data          : 11557627941578074336
+            Stored Addr.  : 5
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 2865
+            Data          : 15348237962248571424
+            Stored Addr.  : 6
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 3435
+            Data          : 537681136612870282
+            Stored Addr.  : 7
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 2191
+            Data          : 10911407198601522938
+            Stored Addr.  : 8
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 1789
+            Data          : 16411646751699982622
+            Stored Addr.  : 9
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR] WRITE PHASE
+            Write Address : 3571
+            Data          : 11914349546881129364
+            Stored Addr.  : 10
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 4082
+            Write Enable  : 0
+            Write Address : 1688
+            Data          : 14206969003874580106
+            Valid Addr.  : 10
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 2389
+            Write Enable  : 1
+            Write Address : 1831
+            Data          : 1944577456227272996
+            Valid Addr.  : 11
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 3435
+            Write Enable  : 0
+            Write Address : 3914
+            Data          : 18174358109733868720
+            Valid Addr.  : 11
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 4082
+            Write Enable  : 1
+            Write Address : 650
+            Data          : 3600570155724872460
+            Valid Addr.  : 12
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1831
+            Write Enable  : 1
+            Write Address : 1352
+            Data          : 16395803295879448640
+            Valid Addr.  : 13
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 3571
+            Write Enable  : 0
+            Write Address : 3405
+            Data          : 17103756435563145170
+            Valid Addr.  : 13
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 2191
+            Write Enable  : 0
+            Write Address : 1727
+            Data          : 3195048342676367977
+            Valid Addr.  : 13
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1831
+            Write Enable  : 1
+            Write Address : 3525
+            Data          : 13870837525873952162
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 2389
+            Write Enable  : 0
+            Write Address : 2878
+            Data          : 3191045619710486561
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 650
+            Write Enable  : 0
+            Write Address : 339
+            Data          : 17267525475496873995
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 650
+            Write Enable  : 0
+            Write Address : 2494
+            Data          : 12525853259510568004
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1352
+            Write Enable  : 0
+            Write Address : 3252
+            Data          : 658935907743754498
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 3571
+            Write Enable  : 0
+            Write Address : 1690
+            Data          : 11476937098594978355
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 311
+            Write Enable  : 0
+            Write Address : 874
+            Data          : 3748774844393674241
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1789
+            Write Enable  : 0
+            Write Address : 2489
+            Data          : 3040490692370978279
+            Valid Addr.  : 14
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 3525
+            Write Enable  : 1
+            Write Address : 1051
+            Data          : 9789993547175132866
+            Valid Addr.  : 15
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 650
+            Write Enable  : 0
+            Write Address : 3904
+            Data          : 3887429065617111236
+            Valid Addr.  : 15
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1352
+            Write Enable  : 0
+            Write Address : 461
+            Data          : 15461789028670914385
+            Valid Addr.  : 15
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 4082
+            Write Enable  : 1
+            Write Address : 2133
+            Data          : 4111421746627810364
+            Valid Addr.  : 16
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 14
+            Write Enable  : 0
+            Write Address : 2709
+            Data          : 16833662621448351649
+            Valid Addr.  : 16
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 2956
+            Write Enable  : 0
+            Write Address : 3667
+            Data          : 15732121758967436145
+            Valid Addr.  : 16
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1352
+            Write Enable  : 1
+            Write Address : 530
+            Data          : 10315085776945044651
+            Valid Addr.  : 17
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 530
+            Write Enable  : 0
+            Write Address : 258
+            Data          : 18394166689011372263
+            Valid Addr.  : 17
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 2133
+            Write Enable  : 0
+            Write Address : 4027
+            Data          : 9395651507924743586
+            Valid Addr.  : 17
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 2389
+            Write Enable  : 1
+            Write Address : 1927
+            Data          : 11067760276061708022
+            Valid Addr.  : 18
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 1352
+            Write Enable  : 1
+            Write Address : 1730
+            Data          : 3241286354315693182
+            Valid Addr.  : 19
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 3525
+            Write Enable  : 1
+            Write Address : 3363
+            Data          : 16929790146656797295
+            Valid Addr.  : 20
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 530
+            Write Enable  : 0
+            Write Address : 2232
+            Data          : 12859669934052611266
+            Valid Addr.  : 20
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 14
+            Write Enable  : 1
+            Write Address : 1780
+            Data          : 16253037753832831039
+            Valid Addr.  : 21
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+------------------------------------------------------------
+[TRANSACTION] New transaction object created
+------------------------------------------------------------
+[GENERATOR]
+            Read Address  : 3525
+            Write Enable  : 0
+            Write Address : 3078
+            Data          : 18306409920630863153
+            Valid Addr.  : 21
+[GENERATOR] Transaction dispatched to DRIVER and MONITOR
+------------------------------------------------------------
+
+============================================================
+[GENERATOR] Stimulus generation completed
+============================================================
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 2389 | DATA = 15448417438427341494
+         READ  = 0 | RD_ADDR = 2191
+[MONITOR]
+         READ = 0 | RD_ADDR = 2191 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 2389
+            Data    : 15448417438427341494
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 2956 | DATA = 1063408488803700434
+         READ  = 0 | RD_ADDR = 851
+[MONITOR]
+         READ = 0 | RD_ADDR = 851 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 2956
+            Data    : 1063408488803700434
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 4082 | DATA = 15988353986314015403
+         READ  = 0 | RD_ADDR = 915
+[MONITOR]
+         READ = 0 | RD_ADDR = 915 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 4082
+            Data    : 15988353986314015403
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 14 | DATA = 14778514005830526002
+         READ  = 0 | RD_ADDR = 3351
+[MONITOR]
+         READ = 0 | RD_ADDR = 3351 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 14
+            Data    : 14778514005830526002
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 311 | DATA = 11557627941578074336
+         READ  = 0 | RD_ADDR = 3072
+[MONITOR]
+         READ = 0 | RD_ADDR = 3072 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 311
+            Data    : 11557627941578074336
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 2865 | DATA = 15348237962248571424
+         READ  = 0 | RD_ADDR = 3123
+[MONITOR]
+         READ = 0 | RD_ADDR = 3123 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 2865
+            Data    : 15348237962248571424
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 3435 | DATA = 537681136612870282
+         READ  = 0 | RD_ADDR = 299
+[MONITOR]
+         READ = 0 | RD_ADDR = 299 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 3435
+            Data    : 537681136612870282
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 2191 | DATA = 10911407198601522938
+         READ  = 0 | RD_ADDR = 412
+[MONITOR]
+         READ = 0 | RD_ADDR = 412 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 2191
+            Data    : 10911407198601522938
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1789 | DATA = 16411646751699982622
+         READ  = 0 | RD_ADDR = 4038
+[MONITOR]
+         READ = 0 | RD_ADDR = 4038 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1789
+            Data    : 16411646751699982622
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 3571 | DATA = 11914349546881129364
+         READ  = 0 | RD_ADDR = 1342
+[MONITOR]
+         READ = 0 | RD_ADDR = 1342 | DUT_DATA = x
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 3571
+            Data    : 11914349546881129364
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 1688 | DATA = 14206969003874580106
+         READ  = 1 | RD_ADDR = 4082
+[MONITOR]
+         READ = 1 | RD_ADDR = 4082 | DUT_DATA = 15988353986314015403
+[SCOREBOARD] READ PASS
+            Address  : 4082
+            Expected : 15988353986314015403
+            Actual   : 15988353986314015403
+            Passes   : 1
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1831 | DATA = 1944577456227272996
+         READ  = 1 | RD_ADDR = 2389
+[MONITOR]
+         READ = 1 | RD_ADDR = 2389 | DUT_DATA = 15448417438427341494
+[SCOREBOARD] READ PASS
+            Address  : 2389
+            Expected : 15448417438427341494
+            Actual   : 15448417438427341494
+            Passes   : 2
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1831
+            Data    : 1944577456227272996
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 3914 | DATA = 18174358109733868720
+         READ  = 1 | RD_ADDR = 3435
+[MONITOR]
+         READ = 1 | RD_ADDR = 3435 | DUT_DATA = 537681136612870282
+[SCOREBOARD] READ PASS
+            Address  : 3435
+            Expected : 537681136612870282
+            Actual   : 537681136612870282
+            Passes   : 3
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 650 | DATA = 3600570155724872460
+         READ  = 1 | RD_ADDR = 4082
+[MONITOR]
+         READ = 1 | RD_ADDR = 4082 | DUT_DATA = 15988353986314015403
+[SCOREBOARD] READ PASS
+            Address  : 4082
+            Expected : 15988353986314015403
+            Actual   : 15988353986314015403
+            Passes   : 4
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 650
+            Data    : 3600570155724872460
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1352 | DATA = 16395803295879448640
+         READ  = 1 | RD_ADDR = 1831
+[MONITOR]
+         READ = 1 | RD_ADDR = 1831 | DUT_DATA = 1944577456227272996
+[SCOREBOARD] READ PASS
+            Address  : 1831
+            Expected : 1944577456227272996
+            Actual   : 1944577456227272996
+            Passes   : 5
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1352
+            Data    : 16395803295879448640
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 3405 | DATA = 17103756435563145170
+         READ  = 1 | RD_ADDR = 3571
+[MONITOR]
+         READ = 1 | RD_ADDR = 3571 | DUT_DATA = 11914349546881129364
+[SCOREBOARD] READ PASS
+            Address  : 3571
+            Expected : 11914349546881129364
+            Actual   : 11914349546881129364
+            Passes   : 6
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 1727 | DATA = 3195048342676367977
+         READ  = 1 | RD_ADDR = 2191
+[MONITOR]
+         READ = 1 | RD_ADDR = 2191 | DUT_DATA = 10911407198601522938
+[SCOREBOARD] READ PASS
+            Address  : 2191
+            Expected : 10911407198601522938
+            Actual   : 10911407198601522938
+            Passes   : 7
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 3525 | DATA = 13870837525873952162
+         READ  = 1 | RD_ADDR = 1831
+[MONITOR]
+         READ = 1 | RD_ADDR = 1831 | DUT_DATA = 1944577456227272996
+[SCOREBOARD] READ PASS
+            Address  : 1831
+            Expected : 1944577456227272996
+            Actual   : 1944577456227272996
+            Passes   : 8
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 3525
+            Data    : 13870837525873952162
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 2878 | DATA = 3191045619710486561
+         READ  = 1 | RD_ADDR = 2389
+[MONITOR]
+         READ = 1 | RD_ADDR = 2389 | DUT_DATA = 15448417438427341494
+[SCOREBOARD] READ PASS
+            Address  : 2389
+            Expected : 15448417438427341494
+            Actual   : 15448417438427341494
+            Passes   : 9
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 339 | DATA = 17267525475496873995
+         READ  = 1 | RD_ADDR = 650
+[MONITOR]
+         READ = 1 | RD_ADDR = 650 | DUT_DATA = 3600570155724872460
+[SCOREBOARD] READ PASS
+            Address  : 650
+            Expected : 3600570155724872460
+            Actual   : 3600570155724872460
+            Passes   : 10
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 2494 | DATA = 12525853259510568004
+         READ  = 1 | RD_ADDR = 650
+[MONITOR]
+         READ = 1 | RD_ADDR = 650 | DUT_DATA = 3600570155724872460
+[SCOREBOARD] READ PASS
+            Address  : 650
+            Expected : 3600570155724872460
+            Actual   : 3600570155724872460
+            Passes   : 11
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 3252 | DATA = 658935907743754498
+         READ  = 1 | RD_ADDR = 1352
+[MONITOR]
+         READ = 1 | RD_ADDR = 1352 | DUT_DATA = 16395803295879448640
+[SCOREBOARD] READ PASS
+            Address  : 1352
+            Expected : 16395803295879448640
+            Actual   : 16395803295879448640
+            Passes   : 12
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 1690 | DATA = 11476937098594978355
+         READ  = 1 | RD_ADDR = 3571
+[MONITOR]
+         READ = 1 | RD_ADDR = 3571 | DUT_DATA = 11914349546881129364
+[SCOREBOARD] READ PASS
+            Address  : 3571
+            Expected : 11914349546881129364
+            Actual   : 11914349546881129364
+            Passes   : 13
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 874 | DATA = 3748774844393674241
+         READ  = 1 | RD_ADDR = 311
+[MONITOR]
+         READ = 1 | RD_ADDR = 311 | DUT_DATA = 11557627941578074336
+[SCOREBOARD] READ PASS
+            Address  : 311
+            Expected : 11557627941578074336
+            Actual   : 11557627941578074336
+            Passes   : 14
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 2489 | DATA = 3040490692370978279
+         READ  = 1 | RD_ADDR = 1789
+[MONITOR]
+         READ = 1 | RD_ADDR = 1789 | DUT_DATA = 16411646751699982622
+[SCOREBOARD] READ PASS
+            Address  : 1789
+            Expected : 16411646751699982622
+            Actual   : 16411646751699982622
+            Passes   : 15
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1051 | DATA = 9789993547175132866
+         READ  = 1 | RD_ADDR = 3525
+[MONITOR]
+         READ = 1 | RD_ADDR = 3525 | DUT_DATA = 13870837525873952162
+[SCOREBOARD] READ PASS
+            Address  : 3525
+            Expected : 13870837525873952162
+            Actual   : 13870837525873952162
+            Passes   : 16
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1051
+            Data    : 9789993547175132866
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 3904 | DATA = 3887429065617111236
+         READ  = 1 | RD_ADDR = 650
+[MONITOR]
+         READ = 1 | RD_ADDR = 650 | DUT_DATA = 3600570155724872460
+[SCOREBOARD] READ PASS
+            Address  : 650
+            Expected : 3600570155724872460
+            Actual   : 3600570155724872460
+            Passes   : 17
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 461 | DATA = 15461789028670914385
+         READ  = 1 | RD_ADDR = 1352
+[MONITOR]
+         READ = 1 | RD_ADDR = 1352 | DUT_DATA = 16395803295879448640
+[SCOREBOARD] READ PASS
+            Address  : 1352
+            Expected : 16395803295879448640
+            Actual   : 16395803295879448640
+            Passes   : 18
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 2133 | DATA = 4111421746627810364
+         READ  = 1 | RD_ADDR = 4082
+[MONITOR]
+         READ = 1 | RD_ADDR = 4082 | DUT_DATA = 15988353986314015403
+[SCOREBOARD] READ PASS
+            Address  : 4082
+            Expected : 15988353986314015403
+            Actual   : 15988353986314015403
+            Passes   : 19
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 2133
+            Data    : 4111421746627810364
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 2709 | DATA = 16833662621448351649
+         READ  = 1 | RD_ADDR = 14
+[MONITOR]
+         READ = 1 | RD_ADDR = 14 | DUT_DATA = 14778514005830526002
+[SCOREBOARD] READ PASS
+            Address  : 14
+            Expected : 14778514005830526002
+            Actual   : 14778514005830526002
+            Passes   : 20
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 3667 | DATA = 15732121758967436145
+         READ  = 1 | RD_ADDR = 2956
+[MONITOR]
+         READ = 1 | RD_ADDR = 2956 | DUT_DATA = 1063408488803700434
+[SCOREBOARD] READ PASS
+            Address  : 2956
+            Expected : 1063408488803700434
+            Actual   : 1063408488803700434
+            Passes   : 21
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 530 | DATA = 10315085776945044651
+         READ  = 1 | RD_ADDR = 1352
+[MONITOR]
+         READ = 1 | RD_ADDR = 1352 | DUT_DATA = 16395803295879448640
+[SCOREBOARD] READ PASS
+            Address  : 1352
+            Expected : 16395803295879448640
+            Actual   : 16395803295879448640
+            Passes   : 22
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 530
+            Data    : 10315085776945044651
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 258 | DATA = 18394166689011372263
+         READ  = 1 | RD_ADDR = 530
+[MONITOR]
+         READ = 1 | RD_ADDR = 530 | DUT_DATA = 10315085776945044651
+[SCOREBOARD] READ PASS
+            Address  : 530
+            Expected : 10315085776945044651
+            Actual   : 10315085776945044651
+            Passes   : 23
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 4027 | DATA = 9395651507924743586
+         READ  = 1 | RD_ADDR = 2133
+[MONITOR]
+         READ = 1 | RD_ADDR = 2133 | DUT_DATA = 4111421746627810364
+[SCOREBOARD] READ PASS
+            Address  : 2133
+            Expected : 4111421746627810364
+            Actual   : 4111421746627810364
+            Passes   : 24
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1927 | DATA = 11067760276061708022
+         READ  = 1 | RD_ADDR = 2389
+[MONITOR]
+         READ = 1 | RD_ADDR = 2389 | DUT_DATA = 15448417438427341494
+[SCOREBOARD] READ PASS
+            Address  : 2389
+            Expected : 15448417438427341494
+            Actual   : 15448417438427341494
+            Passes   : 25
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1927
+            Data    : 11067760276061708022
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1730 | DATA = 3241286354315693182
+         READ  = 1 | RD_ADDR = 1352
+[MONITOR]
+         READ = 1 | RD_ADDR = 1352 | DUT_DATA = 16395803295879448640
+[SCOREBOARD] READ PASS
+            Address  : 1352
+            Expected : 16395803295879448640
+            Actual   : 16395803295879448640
+            Passes   : 26
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1730
+            Data    : 3241286354315693182
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 3363 | DATA = 16929790146656797295
+         READ  = 1 | RD_ADDR = 3525
+[MONITOR]
+         READ = 1 | RD_ADDR = 3525 | DUT_DATA = 13870837525873952162
+[SCOREBOARD] READ PASS
+            Address  : 3525
+            Expected : 13870837525873952162
+            Actual   : 13870837525873952162
+            Passes   : 27
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 3363
+            Data    : 16929790146656797295
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 2232 | DATA = 12859669934052611266
+         READ  = 1 | RD_ADDR = 530
+[MONITOR]
+         READ = 1 | RD_ADDR = 530 | DUT_DATA = 10315085776945044651
+[SCOREBOARD] READ PASS
+            Address  : 530
+            Expected : 10315085776945044651
+            Actual   : 10315085776945044651
+            Passes   : 28
+[DRIVER]
+         WRITE = 1 | WR_ADDR = 1780 | DATA = 16253037753832831039
+         READ  = 1 | RD_ADDR = 14
+[MONITOR]
+         READ = 1 | RD_ADDR = 14 | DUT_DATA = 14778514005830526002
+[SCOREBOARD] READ PASS
+            Address  : 14
+            Expected : 14778514005830526002
+            Actual   : 14778514005830526002
+            Passes   : 29
+[SCOREBOARD] REFERENCE MODEL UPDATED
+            Address : 1780
+            Data    : 16253037753832831039
+[DRIVER]
+         WRITE = 0 | WR_ADDR = 3078 | DATA = 18306409920630863153
+         READ  = 1 | RD_ADDR = 3525
+[MONITOR]
+         READ = 1 | RD_ADDR = 3525 | DUT_DATA = 13870837525873952162
+
+
+=============================================================================
+                        FUNCTIONAL COVERAGE REPORT
+=============================================================================
+[COVERAGE] Overall Functional Coverage : 100.00%
+-----------------------------------------------------------------------------
+[COVERAGE] Address Bank Coverage       : 100.00%
+[COVERAGE] Write Address Bank Coverage : 100.00%
+[COVERAGE] Read Enable Coverage        : 100.00%
+[COVERAGE] Write Enable Coverage       : 100.00%
+[COVERAGE] Read/Write Cross Coverage   : 100.00%
+=============================================================================
+                        COVERAGE COLLECTION COMPLETE
+=============================================================================
+
+[SCOREBOARD] READ PASS
+            Address  : 3525
+            Expected : 13870837525873952162
+            Actual   : 13870837525873952162
+            Passes   : 30
+
+============================================================
+[SCOREBOARD] VERIFICATION SUMMARY
+============================================================
+Total Transactions : 40
+Read Passes        : 30
+Read Failures      : 0
+RESULT             : TEST PASSED
+============================================================
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'Test_Ram_4096_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:08 ; elapsed = 00:00:22 . Memory (MB): peak = 1329.707 ; gain = 0.000

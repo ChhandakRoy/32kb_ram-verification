@@ -1,0 +1,25 @@
+# Questa / ModelSim generated files
+work/
+transcript
+*.wlf
+*.log
+*.jou
+*.pb
+*.bak
+
+# Keep the intentional simulation result
+!results/simulation/simulation.log
+
+# Vivado generated files
+.xpr
+.xcix
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+*.str
+
+# OS
+.DS_Store
+Thumbs.db
