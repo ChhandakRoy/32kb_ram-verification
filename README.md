@@ -583,7 +583,7 @@ Example scoreboard summary:
 [SCOREBOARD] VERIFICATION SUMMARY
 ============================================================
 Total Transactions : 40
-Read Passes        : XX
+Read Passes        : 30
 Read Failures      : 0
 RESULT             : TEST PASSED
 ============================================================
@@ -595,13 +595,13 @@ Example coverage summary:
 =============================================================================
                         FUNCTIONAL COVERAGE REPORT
 =============================================================================
-[COVERAGE] Overall Functional Coverage : XX.XX%
+[COVERAGE] Overall Functional Coverage : 100.00%
 -----------------------------------------------------------------------------
-[COVERAGE] Address Bank Coverage       : XX.XX%
-[COVERAGE] Write Address Bank Coverage : XX.XX%
-[COVERAGE] Read Enable Coverage        : XX.XX%
-[COVERAGE] Write Enable Coverage       : XX.XX%
-[COVERAGE] Read/Write Cross Coverage   : XX.XX%
+[COVERAGE] Address Bank Coverage       : 100.00%
+[COVERAGE] Write Address Bank Coverage : 100.00%
+[COVERAGE] Read Enable Coverage        : 100.00%
+[COVERAGE] Write Enable Coverage       : 100.00%
+[COVERAGE] Read/Write Cross Coverage   : 100.00%
 =============================================================================
 ```
 
